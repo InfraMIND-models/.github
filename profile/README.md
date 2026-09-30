@@ -7,6 +7,8 @@
 
 - Funding grant details: [[EN](https://bv.fapesp.br/en/auxilios/120061/modeling-future-dengue-trends-and-evaluating-interventions-in-brazil-through-an-infrastructural-mech/)] [[PT](https://bv.fapesp.br/pt/auxilios/120061/modelagem-de-tendencias-futuras-da-dengue-e-avaliacao-de-intervencoes-no-brasil-por-meio-de-um-frame/)]
 
+- The [Proteus Model repository](https://github.com/InfraMIND-models/3rd_imdc_ifgw_inframind-proteus) for the [3rd IMDC](https://sprint.mosqlimate.org/).
+
 ## About 
 
 InfraMIND-Dengue is a framework for scientific research on dengue through computational modeling. The framework consists of physical and software infrastructure, including an organized database, software standards for building models of different complexity levels, and utilities for operations such as calibrating models and evaluating performance. This enables rapid development of models for addressing public health questions and improving our understanding of dengue.
@@ -15,7 +17,7 @@ InfraMIND-Dengue is part of a project funded by the São Paulo Research Foundati
 
 The project is hosted at the “Gleb Wataghin Institute of Physics” (Instituto de Física “Gleb Wataghin”, IFGW) at the State University of Campinas (Universidade Estadual de Campinas, UNICAMP), São Paulo state - Brazil.
 
-The principal investigator (PI), Paulo Cesar Ventura, has experience with computational epidemiology and contagion dynamics since 2017.
+The principal investigator (PI), [Paulo Cesar Ventura](https://paulocv.com/), has experience with computational epidemiology and contagion dynamics since 2017.
 
 <!--  [!NOTE] -->
 > The opinions, hypotheses, and conclusions or recommendations expressed in this material are the responsibility of the author(s) and do not necessarily reflect the views of FAPESP.
