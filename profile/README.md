@@ -1,5 +1,8 @@
 # InfraMIND-Dengue - Infrastructure for Modeling Infectious Diseases
 
+![InfraMIND project banner](/media/cover_basic_01.png)
+
+
 ## Links
 
 - Funding grant details: [[EN](https://bv.fapesp.br/en/auxilios/120061/modeling-future-dengue-trends-and-evaluating-interventions-in-brazil-through-an-infrastructural-mech/)] [[PT](https://bv.fapesp.br/pt/auxilios/120061/modelagem-de-tendencias-futuras-da-dengue-e-avaliacao-de-intervencoes-no-brasil-por-meio-de-um-frame/)]
